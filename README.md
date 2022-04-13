@@ -1,7 +1,7 @@
 # My_Python_CodeProjet
 
   ## ◆INTRO.
-   #### These are the Python codes I wrote in Standford online code courses.
+   #### These are the Python codes I wrote in Stanford online code courses.
    #### The links below are the links of the Python codes and the YouTube videoes which show how the codes work.
 
   ## ◆Code Projects.
