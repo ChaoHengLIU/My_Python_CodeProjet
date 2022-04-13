@@ -1,10 +1,10 @@
 # My_Python_CodeProjet
 
-  ## INTRO.
-   #### These are the Python codes I learned in Standford online code courses.
+  ## ◆INTRO.
+   #### These are the Python codes I wrote in Standford online code courses.
    #### The links below are the links of the Python codes and the YouTube videoes which show how the codes work.
 
-  ## Code Projects.
+  ## ◆Code Projects.
    #### ◇[StepUp.py](https://github.com/ChaoHengLIU/My_Python_CodeProjet/blob/main/SC-Project/StepUp.py) 
    ######   Click Here → [Video](https://youtu.be/fO9FoZy4WB8)
    
